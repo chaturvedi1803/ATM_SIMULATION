@@ -25,9 +25,11 @@ GUI-based ATM Banking System in Python using Tkinter and SQLite. Features accoun
    git clone <repository_url>
    
 2. Navigate to the project folder:
+   ```bash
    cd ATM-Tkinter-Python
 
- 3. Run the Python file:
+ 4. Run the Python file:
+    ```bash
   python atm_gui.py
 
-4. The database (atm.db) will be created automatically.
+5. The database (atm.db) will be created automatically.
